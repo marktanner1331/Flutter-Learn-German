@@ -4,6 +4,6 @@ A flutter app that helps you learn German by presenting a story, in which you ca
 
 Main Screen             |  Word Definition
 :-------------------------:|:-------------------------:
-<img src="/screenshot1.png" alt="drawing" width="45%"/>  |  <img src="/screenshot2.png" alt="drawing" width="45%"/>
+<img src="/screenshot1.png" alt="drawing" width="70%"/>  |  <img src="/screenshot2.png" alt="drawing" width="70%"/>
 
 
